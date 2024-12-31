@@ -1,6 +1,5 @@
 import {RiMenuLine} from "@remixicon/react"
 import Link from "next/link"
-import { useState } from "react"
 export default function Nav(){
     return(
         <>
